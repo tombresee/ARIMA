@@ -4,9 +4,7 @@ TITLE GitPush
 
 :: Section 1 - comment
 
-ECHO 
-
-ECHO 
+ECHO ''
 
 ECHO === git add * ===
 git add *
