@@ -13,6 +13,7 @@
 
 
 
+|
 
 
 ======================
@@ -20,7 +21,9 @@
 ======================
 
 
+
 |
+
 
 
 
@@ -32,10 +35,11 @@ B01
 
 * Makina-Corpus http://www.makina-corpus.com
 
-B02
-------
+|
 
-- JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
-- _Github: https://github.com/
-- `Font <https://fontawesome.com/icons?d=gallery&m=free>`_
-- ike link: `Github <https://github.com/>`_
+
+
+Videos
+---------
+
+- `PACF <https://www.youtube.com/watch?v=DeORzP0go5I>`_
