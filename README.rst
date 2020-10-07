@@ -49,7 +49,7 @@ Full list of useable icons may be found here : `Font Awesome free icons <https:/
 
 - By making a more Markdown-like link: `Github <https://github.com/>`_ .
 
-.. _Github: https://github.com/
+..  _Github: https://github.com/
 
 
 
@@ -71,3 +71,4 @@ B02
 
 - JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
 - _Github: https://github.com/
+- `Font Awesome free icons <https://fontawesome.com/icons?d=gallery&m=free>`_
