@@ -47,13 +47,11 @@ Full list of useable icons may be found here : `Font Awesome free icons <https:/
 
 
 
+- By making a more Markdown-like link: `Github <https://github.com/>`_ .
+
+.. _Github: https://github.com/
 
 
-Contribute
-==========
-
-- Issue Tracker: https://github.com/collective/collective.fontawesome/issues
-- Source Code: https://github.com/collective/collective.fontawesome
 
 
 
@@ -72,7 +70,4 @@ B02
 ------
 
 - JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
-- Eric Bréhault, <ebrehault@gmail.com>
-- Gauthier Bastien, <gauthier.bastien@imio.be>
-- Leonardo J. Caballero G. aka macagua <leonardocaballero@gmail.com>
-
+- _Github: https://github.com/
