@@ -4,20 +4,23 @@ TITLE GitPush
 
 :: Section 1 - comment
 
-ECHO ''
+ECHO ..............................
 
-ECHO === git add * ===
+ECHO === 1.  git add * ===
 git add *
 
+ECHO ..............................
 
-ECHO === git commit -am "-" ===
+ECHO === 2.  git commit -am "-" ===
 git commit -am "-"
 
+ECHO ..............................
 
-ECHO === git push ===
+ECHO === 3.  git push ===
 git push
 
 ECHO  bye...
 
+ECHO ..............................
 
 exit /B
