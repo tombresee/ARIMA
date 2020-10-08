@@ -12,7 +12,6 @@
 
 
 
-
 |
 
 
@@ -33,7 +32,9 @@ B
 B01
 ---------
 
-* Makina-Corpus http://www.makina-corpus.com
+* a
+* b
+
 
 |
 
@@ -43,3 +44,5 @@ Videos
 ---------
 
 - `PACF <https://www.youtube.com/watch?v=DeORzP0go5I>`_
+
+
